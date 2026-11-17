@@ -1,0 +1,13 @@
+#Name {
+    text-align: center;
+    font-style: italic;
+}
+ body {
+                text-align: center;
+            }
+img {
+    border-radius: 100%;
+}
+label {
+    font-style: oblique;
+}
